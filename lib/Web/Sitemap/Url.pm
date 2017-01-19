@@ -66,7 +66,7 @@ sub _images_xml_string {
 			}
 
 			$result .= sprintf(
-				"\n<image:image><loc>%s</loc><caption><![CDATA[%s]]></caption></image:image>",
+				"\n<image:image><image:loc>%s</image:loc><image:caption><![CDATA[%s]]></image:caption></image:image>",
 				$loc, $caption
 			);
 			$i++;
