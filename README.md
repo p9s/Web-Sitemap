@@ -1,3 +1,7 @@
+# NOTE
+    forked from https://metacpan.org/pod/Web::Sitemap did some update
+
+
 # NAME
      Web::Sitemap - Simple way to generate sitemap files with paging support
 
