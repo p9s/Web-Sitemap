@@ -1,0 +1,4 @@
+name = "Web-Sitemap"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
